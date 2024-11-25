@@ -13,10 +13,10 @@
 :root {
   /* colors */
   --background-color: #ffffff;
-  --light-color: #00aaff;
-  --dark-color: #00ccff;
-  --text-color: #00e5ff;
-  --link-color: #00ffff;
+  --light-color: #ff6347;
+  --dark-color: #ff7f50;
+  --text-color: #ff8c00;
+  --link-color: #ffa500;
   --link-hover-color: #000fff;
 
   /* fonts */
